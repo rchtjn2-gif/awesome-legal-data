@@ -194,6 +194,7 @@ Most resources are openly available.
 - [Manupatra](https://www.manupatrafast.com/) — Comprehensive commercial Indian legal research. *(Commercial)*
 - [OpenNyAI Datasets](https://opennyai.org/datasets) — Indian legal NLP datasets (judgment summarization, QA, translation). *(Open)*
 - [ILDC (Indian Legal Documents Corpus)](https://github.com/Legal-NLP-EkStep/ILDC) — Public datasets for Indian judgment analysis/summarization (various releases). *(Open)*
+- [ecourtsindia.com](https://ecourtsindia.com/) - Direct and Largest Legal database of All courts across India, including District courts, High courts, Supreme Courts and Tribunals. *(Open)*
 
 
 ### China
